@@ -1,0 +1,44 @@
+
+
+
+.scratchBackground{
+    background-image: url('https://e0.pxfuel.com/wallpapers/906/952/desktop-wallpaper-graphy-background-best-ultra-750909-ssoflx-for-your-mobile-tablet-explore-best-websites-3840x2160-nature-grapher.jpg');
+}
+
+.center{
+    text-align: center;
+}
+
+.centerVid{
+    display: block;
+}
+
+.fontFam{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.fontColor{
+    color: rgba(89, 101, 92, 0.865);
+}
+
+.rDiv {
+    border: 15px outset rgba(0, 255, 68, 0.219);
+    background-color: rgb(255, 255, 255);
+    margin-left: 600px;
+    text-align: center;
+  }
+
+  .lDiv {
+    border: 15px outset rgba(0, 255, 68, 0.219);
+    background-color: rgb(255, 255, 255);
+    margin-right: 600px;
+    text-align: center;
+  }
+
+  .cDiv {
+    border: 15px outset rgba(0, 255, 68, 0.219);
+    background-color: rgb(255, 255, 255);
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+  }
